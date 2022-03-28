@@ -17,3 +17,7 @@ For development, you will only need Node.js and a node global package.
     $ node server.js
     
 Now visit http://localhost:8080 to see app working.
+
+## Heroku
+
+You can run these app using Heroku. Just visit: https://testpoz10.herokuapp.com/ .
